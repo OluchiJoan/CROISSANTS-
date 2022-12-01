@@ -1,0 +1,12 @@
+body {
+  background: #678456;
+}
+
+h1,
+p {
+  text-align: center;
+}
+div a {
+  padding: 10px;
+  color: antiquewhite;
+}
